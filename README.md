@@ -31,6 +31,8 @@ Keep the `.env` file private. It is excluded from Git by `.gitignore`.
 streamlit run langchain_models.py
 ```
 
+When the app is running locally, open [http://localhost:8501](http://localhost:8501).
+
 Enter a prompt in the app and select **Submit** to get a response. The current model is `openai/gpt-oss-120b`, configured in `langchain_models.py`.
 
 ## Dependencies
