@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-groq
+python-dotenv
+pandas
+numpy
+transformers
+scikit-learn
+huggingface-hub
+langchain-huggingface
+streamlit
+langchain-community
+duckduckgo-search
+pydantic
